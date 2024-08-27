@@ -1,0 +1,5 @@
+Instale o Node.js: Se ainda não tiver, baixe e instale o Node.js em nodejs.org.
+Crie um Novo Projeto React: Use o comando abaixo para criar um novo projeto React com TypeScrip
+
+
+npx create-react-app privacy-settings --template typescript
